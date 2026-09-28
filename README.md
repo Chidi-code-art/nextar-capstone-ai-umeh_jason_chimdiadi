@@ -39,6 +39,7 @@ EDA/
 │
 └── [EDA Notebook].ipynb
 ```
+The dataset file can be accessed via this link: https://www.kaggle.com/code/umehchimdiadi/igbo-rag
 
 # Retrieval-Augmented Generation (RAG) Pipeline
 
